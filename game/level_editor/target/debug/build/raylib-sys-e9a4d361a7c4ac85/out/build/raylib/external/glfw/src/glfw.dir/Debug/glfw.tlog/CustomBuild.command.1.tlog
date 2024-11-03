@@ -1,0 +1,10 @@
+^C:\DEV\GAME\LEVEL_EDITOR\TARGET\DEBUG\BUILD\RAYLIB-SYS-E9A4D361A7C4AC85\OUT\RAYLIB\SRC\EXTERNAL\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/game/level_editor/target/debug/build/raylib-sys-e9a4d361a7c4ac85/out/raylib -BC:/dev/game/level_editor/target/debug/build/raylib-sys-e9a4d361a7c4ac85/out/build --check-stamp-file C:/dev/game/level_editor/target/debug/build/raylib-sys-e9a4d361a7c4ac85/out/build/raylib/external/glfw/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

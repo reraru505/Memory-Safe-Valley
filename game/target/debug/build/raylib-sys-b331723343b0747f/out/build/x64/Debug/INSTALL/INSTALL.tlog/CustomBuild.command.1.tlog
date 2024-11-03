@@ -1,0 +1,10 @@
+^C:\DEV\GAME\TARGET\DEBUG\BUILD\RAYLIB-SYS-B331723343B0747F\OUT\BUILD\CMAKEFILES\BDC7BBAE15FC267C6E5011D822217EDC\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

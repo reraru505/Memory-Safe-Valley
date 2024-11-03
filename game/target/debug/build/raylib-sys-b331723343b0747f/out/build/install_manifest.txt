@@ -1,0 +1,7 @@
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/lib/raylib.lib
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/include/raylib.h
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/include/rlgl.h
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/include/raymath.h
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/lib/pkgconfig/raylib.pc
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/lib/cmake/raylib/raylib-config-version.cmake
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/lib/cmake/raylib/raylib-config.cmake

@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Templates/CPackConfig.cmake.in
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib/cmake/CompileDefinitions.cmake
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib/cmake/GlfwImport.cmake
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib/cmake/InstallConfigurations.cmake
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib/cmake/JoinPaths.cmake
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib/cmake/LibraryConfigurations.cmake
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib/cmake/LibraryPathToLinkerFlags.cmake
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib/cmake/PackConfigurations.cmake
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib/cmake/PopulateConfigVariablesLocally.cmake
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib/cmake/raylib-config-version.cmake
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib/raylib.pc.in
+C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib/src/CMakeLists.txt

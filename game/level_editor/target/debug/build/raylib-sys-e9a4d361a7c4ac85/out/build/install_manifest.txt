@@ -1,0 +1,7 @@
+C:/dev/game/level_editor/target/debug/build/raylib-sys-e9a4d361a7c4ac85/out/lib/raylib.lib
+C:/dev/game/level_editor/target/debug/build/raylib-sys-e9a4d361a7c4ac85/out/include/raylib.h
+C:/dev/game/level_editor/target/debug/build/raylib-sys-e9a4d361a7c4ac85/out/include/rlgl.h
+C:/dev/game/level_editor/target/debug/build/raylib-sys-e9a4d361a7c4ac85/out/include/raymath.h
+C:/dev/game/level_editor/target/debug/build/raylib-sys-e9a4d361a7c4ac85/out/lib/pkgconfig/raylib.pc
+C:/dev/game/level_editor/target/debug/build/raylib-sys-e9a4d361a7c4ac85/out/lib/cmake/raylib/raylib-config-version.cmake
+C:/dev/game/level_editor/target/debug/build/raylib-sys-e9a4d361a7c4ac85/out/lib/cmake/raylib/raylib-config.cmake

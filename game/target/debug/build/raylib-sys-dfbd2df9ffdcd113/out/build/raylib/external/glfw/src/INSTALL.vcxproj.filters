@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\game\target\debug\build\raylib-sys-dfbd2df9ffdcd113\out\build\CMakeFiles\adc416408a5829df2a4267cd3c4b353e\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C6FD27DC-8169-3E96-9C3D-E232DD41FF29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

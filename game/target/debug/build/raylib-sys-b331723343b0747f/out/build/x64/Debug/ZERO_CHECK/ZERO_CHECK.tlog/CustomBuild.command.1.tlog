@@ -1,0 +1,10 @@
+^C:\DEV\GAME\TARGET\DEBUG\BUILD\RAYLIB-SYS-B331723343B0747F\OUT\BUILD\CMAKEFILES\BDC7BBAE15FC267C6E5011D822217EDC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/raylib -BC:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/game/target/debug/build/raylib-sys-b331723343b0747f/out/build/raylib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
