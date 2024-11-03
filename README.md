@@ -5,7 +5,7 @@ Attempt to make stardew valley in rust , lets see when this baby segfaults
 Prototyping phase aka no progress 
 
 # todo for the prototype 
-'Asset streaming System 
-'Level editor 
-'Collision detectin measures for large scenes (Not large maybe)
+### Asset streaming System 
+### Level editor 
+### Collision detectin measures for large scenes (Not large maybe)
 
